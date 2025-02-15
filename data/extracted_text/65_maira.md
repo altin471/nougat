@@ -1,0 +1,6 @@
+# Extrahierter Text aus PDF
+
+
+$$
+.
+$$
